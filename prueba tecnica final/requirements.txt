@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+mysql
+mysql-connector-python-rf
+sqlalchemy
+matplotlib
+pandas
+sklearn
+imblearn
+xgboost
